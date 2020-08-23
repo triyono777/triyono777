@@ -3,7 +3,7 @@
 
 Name : Triyono<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trinwin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=triyono777&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![github stats](https://github-readme-stats.vercel.app/api?username=triyono777&show_icons=true&theme=tokyonight)
 
 <!--
