@@ -2,7 +2,7 @@
 
 
 Name : Triyono<br>
-**This Week I Spent My Time On:**
+
 <br/>
 Visit my Tutorial blog
 <br>
