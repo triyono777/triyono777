@@ -1,11 +1,12 @@
 
-![Profile views](https://gpvc.arturio.dev/triyono777)
+
 
 Name : Triyono<br>
 **This Week I Spent My Time On:**
 <br/>
 Visit my Tutorial blog
 ![triyono dev](https://triyono.gitbook.io/tutorial)
+<br>
 
 ![Waka Time](https://github-readme-stats.vercel.app/api/wakatime?username=nakamurax2&show_icons=true&theme=material-palenight&repo=flutter_model_helper&&show_owner=true)
 <br/>
