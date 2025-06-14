@@ -1,6 +1,4 @@
 
-
-
 Name : Triyono<br>
 
 <br/>
@@ -9,7 +7,7 @@ Visit my Tutorial blog
 https://triyono.gitbook.io/tutorial
 <br>
 **This Week I Spent My Time On:**
-<br>
+<br/>
 ![Waka Time](https://github-readme-stats.vercel.app/api/wakatime?username=nakamurax2&show_icons=true&theme=material-palenight&repo=flutter_model_helper&&show_owner=true)
 <br/>
 ![github stats](https://github-readme-stats.vercel.app/api?username=triyono777&show_icons=true&theme=tokyonight)<br/>
